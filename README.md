@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @LeRedstonneur
+- 👀 I’m interested in IT
+- 🌱 I’m currently learning Python
+- 📫 How to reach me : YouTube@Le_redstonneur
